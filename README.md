@@ -4,4 +4,4 @@ I made two scripts that essentially do the same thing (Notebook & Python script)
 
 Here is an example:
 
-![alt text](Wifi Random.png "Wifi QRcode Example")
+![Wifi QRcode Example](Wifi Random.png)
