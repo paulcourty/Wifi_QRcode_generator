@@ -1,5 +1,7 @@
 <h1>Wifi QR codes</h1>
 
+<br/>
+
 Here is a simple script to generate Wifi QRcodes. 
 
 It's practical for friends coming over, they can now connect to the wifi within seconds taking a picture !
