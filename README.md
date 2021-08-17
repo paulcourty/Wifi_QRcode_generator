@@ -2,13 +2,13 @@
 
 <br/>
 
-I wrote a simple script to generate **Wifi QRcodes**. 
+A simple script to generate **Wifi QRcodes**. 
 
-It's practical for friends coming over, they can now connect to the wifi by taking a picture !
+Friends can now connect to the wifi by taking a picture, way more practical !
 
 <br/>
 
-The scripts try to retrieve your wifi information directly from your laptop, otherwise they ask you to type the info manually. Both `wifi_qrcode.py` & `wifi_qrcode.ipynb` do the same thing, so run the one that you're most comfortable with. 
+The scripts try to retrieve your wifi information directly from your laptop, otherwise they ask you to type your info manually. Both `wifi_qrcode.py` & `wifi_qrcode.ipynb` do the same thing, so run the one that you're most comfortable with. 
 
 <br/>
 
