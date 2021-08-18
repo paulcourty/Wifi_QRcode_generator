@@ -17,16 +17,17 @@ You can run the `wifi_qrcode.py` script by simply cloning this repository (`git`
 For **Unix/macOS**:
 
 ```sh
-python3 -m venv .env
-source .env/bin/activate
+python3 -m venv .env_WifiQRcode
+source .env_WifiQRcode/bin/activate
 pip install -r requirements.txt
 ```
 
 For **Windows**:
 
 ```sh
-py -m venv .env
-.env/Scripts/activate
+py -m venv .env_WifiQRcode
+cd .env_WifiQRcode/Scripts/
+activate
 pip install -r requirements.txt
 ```
 
