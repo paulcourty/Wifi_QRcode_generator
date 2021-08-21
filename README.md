@@ -68,4 +68,4 @@ jupyter lab
 
 <br>
 
-When the Jupyter web interface opens, navigate to `BlackJackRL.ipynb` to open & run the Notebook !
+When the Jupyter web interface opens, navigate to `wifi_qrcode.ipynb` to open & run the Notebook !
