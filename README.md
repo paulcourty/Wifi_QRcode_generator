@@ -1,6 +1,6 @@
 # Wifi QR codes
 
-
+<br>
 
 A simple script to generate **Wifi QRcodes**. 
 
@@ -16,6 +16,8 @@ The scripts try to retrieve your wifi information directly from your laptop, oth
 
 ## Results
 
+<br>
+
 The script outputs a QR code (`.png`) of the sort:
 
 ![Wifi QRcode Example](https://github.com/paulcourty/Wifi_QRcode_generator/blob/main/Wifi%20Example.png)
@@ -25,6 +27,8 @@ The script outputs a QR code (`.png`) of the sort:
 
 
 ## How to run
+
+<br>
 
 You can run the `wifi_qrcode.py` & `wifi_qrcode.ipynb` scripts by simply cloning this repository (`git` or manually downloading the folder). Then, go into a terminal, navigate to the cloned repository, and install the necessary Python dependencies:
 
