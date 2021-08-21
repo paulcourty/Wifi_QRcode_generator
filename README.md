@@ -2,8 +2,6 @@
 
 
 
-## About
-
 A simple script to generate **Wifi QRcodes**. 
 
 Friends can now connect to the wifi by taking a picture, way more practical !
@@ -12,6 +10,8 @@ Friends can now connect to the wifi by taking a picture, way more practical !
 
 The scripts try to retrieve your wifi information directly from your laptop, otherwise they ask you to type your info manually. Both `wifi_qrcode.py` & `wifi_qrcode.ipynb` do the same thing, so run the one that you're most comfortable with. 
 
+<br>
+
 
 
 ## Results
@@ -19,6 +19,8 @@ The scripts try to retrieve your wifi information directly from your laptop, oth
 The script outputs a QR code (`.png`) of the sort:
 
 ![Wifi QRcode Example](https://github.com/paulcourty/Wifi_QRcode_generator/blob/main/Wifi%20Example.png)
+
+<br>
 
 
 
@@ -60,4 +62,6 @@ pip install jupyter lab
 jupyter lab
 ``` 
 
-A Jupyter web interface opens, and navigate to `BlackJackRL.ipynb` to run the Notebook !
+<br>
+
+When the Jupyter web interface opens, navigate to `BlackJackRL.ipynb` to open & run the Notebook !
