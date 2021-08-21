@@ -46,8 +46,7 @@ For **Windows**:
 
 ```sh
 py -m venv .env_WifiQRcode
-cd .env_WifiQRcode/Scripts/
-activate
+call .env_WifiQRcode/Scripts/activate
 pip install -r requirements.txt
 ```
 
@@ -62,7 +61,7 @@ python wifi_qrcode.py
 Alternatively, to run `wifi_qrcode.ipynb`:
 
 ```sh
-pip install jupyter lab
+pip install jupyterlab
 jupyter lab
 ``` 
 
